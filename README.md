@@ -16,8 +16,7 @@
 </div>
 
 ## Sobre
-API desenvolvida para o projeto [Digital Store](https://github.com/marllonmendez/digital-store)
-
+API desenvolvida para o projeto [Digital Store](https://github.com/J-FerreiraL/gt-drip-store-ecommerce.git)
 ### Observação
 O banco de dados utilizado é o SQLite. No entanto, para ambientes de produção, é recomendável utilizar um banco de dados mais robusto, como o PostgreSQL.
 
